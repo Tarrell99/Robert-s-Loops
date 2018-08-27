@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Robert%27s Loops\Robert%27s Loops\Source.cpp" />
+    <ClCompile Include="..\..\Robert%27s Loops\Robert%27s Loops\Source1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

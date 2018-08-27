@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\Robert%27s Loops\Robert%27s Loops\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Robert%27s Loops\Robert%27s Loops\Source1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
